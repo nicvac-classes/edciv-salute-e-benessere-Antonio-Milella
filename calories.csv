@@ -1,0 +1,563 @@
+Alimento,Grammi per porzione,calorie
+Carciofo,128,60
+Rucola,2,1
+Asparago,12,2
+Melanzana,458,115
+Barbabietola,82,35
+Peperone,73,15
+Olive nere,2.7,2
+Broccoli,608,207
+Cavoletti di Bruxelles,19,8
+Cavolo,908,227
+Peperone,45,12
+Carota,61,25
+Cavolfiore,13,3
+Sedano,40,6
+Bietole,48,9
+Pomodoro ciliegino,20,20
+Cicoria,53,38
+Cavolo cinese,840,134
+Erba cipollina,3,1
+Verza,36,12
+Mais,154,562
+Zucchina,196,33
+Spinaci alla panna,200,148
+Cetriolo,410,66
+Melanzana,458,115
+Indivia,513,87
+Finocchio,234,73
+Aglio,3,4
+Cetriolo sott'aceto,65,9
+Zucca,771,108
+Fagiolini,110,34
+Olive verdi,2.7,2
+Cipollotto,15,5
+Rafano,15,7
+Cavolo riccio,67,33
+Cavolo rapa,400,108
+Kumara,130,112
+Porro,89,54
+Lattuga,600,90
+Funghi,5.4,1
+Senape,56,15
+Alga nori,2.6,1
+Okra,12,4
+Olive,2.7,2
+Cipolla,85,34
+Pastinaca,170,128
+Piselli,98,79
+Peperone,75,20
+Patata,213,164
+Zucca,196,51
+Ravanelli,4.5,1
+Cavolo rosso,22,7
+Rapa,386,147
+Scalogno,25,18
+Spinaci,340,78
+Zucca,196,88
+Patata dolce,130,112
+Pomodoro,111,20
+Verza,170,34
+Rapa,122,34
+Wasabi,169,184
+Zucca invernale,431,147
+Zucchina,196,33
+Acai,28.35,20
+Mela,182,95
+Pur  di mele,246,167
+Albicocca,35,17
+Avocado,200,320
+Banana,125,111
+More,144,62
+Arance del sangue,140,70
+Mirtilli,148,84
+Melone,69,23
+Ciliegie,8,4
+Clementine,74,35
+Mirtillo rosso,100,46
+Ribes,112,63
+Annona,135,136
+Datteri,7.1,20
+Fichi,50,37
+Macedonia di frutta,249,125
+Uva,151,104
+Greengage,5,2
+Guava,55,37
+Jackfruit,151,143
+Giuggiola,28.35,22
+Kiwi,183,112
+Limone,58,17
+Lime,67,20
+Litchi,10,7
+Mandarini,88,47
+Mango,336,202
+Minneola,109,70
+More,140,60
+Nettarina,150,66
+Olive,2.7,2
+Arancia,131,62
+Papaya,500,215
+Frutto della passione,18,17
+Pesca,150,59
+Pera,178,101
+Cachi,25,32
+Physalis,5,2
+Ananas,905,453
+Platano,179,218
+Prugna,66,30
+Melagrana,282,234
+Cotogna,92,52
+Uvetta,145,434
+Rambutan,9,7
+Lamponi,123,64
+Rabarbaro,51,11
+Frutto della stella,91,28
+Fragole,152,49
+Tamarindo,2,5
+Mandarino,88,47
+Anguria,286,86
+Costine di maiale,139,360
+Bacon e uova,214,539
+Fagioli al forno,260,244
+Costine BBQ,141,360
+Stufato di manzo,196,186
+Biryani,275,484
+Black pudding,40,101
+Riso nero,100,323
+BLT,240,593
+Riso integrale,185,670
+Burrito,200,326
+Pollo al burro,350,490
+California roll,35,33
+Insalata Caesar di pollo,309,392
+Bistecca di pollo fritto,280,423
+Pollo Marsala,2301,2209
+Pollo Parmigiana,227,250
+Torta di pollo,302,673
+Pollo Tikka Masala,241,195
+Chili con carne,253,266
+Chimichanga,180,418
+Insalata Cobb,536,632
+Verza,45,13
+Corn dog,175,438
+Hash di manzo salato,213,349
+Shepherd's pie,376,523
+Dal,92,304
+Uova farcite,31,62
+Dim sum,19,37
+Dosa,435,287
+Enchiladas,192,323
+Fajita,248,290
+Fish and chips,300,585
+Riso fritto,356,662
+Gamberi fritti,27,75
+Panino al formaggio grigliato,136,392
+Panino prosciutto e formaggio,146,352
+Hummus,246,435
+Jambalaya,250,250
+Kebab,360,774
+Lasagna,215,284
+Mac and cheese,189,699
+Maccheroni al formaggio,189,699
+Pur  di patate,210,174
+Torta di carne,120,290
+Polpettone,284,721
+Naan,84,260
+Pollo all'arancia,162,420
+Pad Thai,250,375
+Paella,128,200
+Paratha,80,260
+Zuppa di piselli,253,190
+Panino al burro di arachidi,49,200
+Anatra alla pechinese,178,401
+Philly cheese steak,120,300
+Pizza,102,272
+Costoletta di maiale,131,295
+Insalata di patate,95,136
+Panino pulled pork,261,551
+Ramen,85,380
+Ravioli,66,134
+Reuben sandwich,308,641
+Roast beef,21,23
+Arrosto,121,240
+Samosa,50,107
+Sausage roll,103,361
+Salsicce arrotolate,34,101
+Shepherd's pie,227,159
+Cocktail di gamberi,28,130
+Sloppy joe,142,101
+Sloppy joes,258,397
+Spaghetti Bolognese,283,374
+Involtino primavera,140,350
+Involtini primavera,140,350
+Taco,98,213
+Pollo tandoori,175,198
+Yorkshire pudding,15,83
+Amaranto,193,716
+Orzo,157,556
+Groats d'orzo,31,31
+Riso integrale,195,757
+Grano saraceno,170,583
+Groats di grano saraceno,164,567
+Waffle di mais,40,110
+Farina di mais,122,442
+Amido di mais,128,488
+Couscous,173,650
+Cracker,7,35
+Semola di grano duro,30,119
+Semi di lino,168,897
+Freekeh,160,832
+Glutine,28,104
+Grissini,5,20
+Kamut,186,627
+Miglio,128,484
+Farina di miglio,140,521
+Pappa di miglio,174,80
+Crusca d'avena,94,231
+Orzo perlato,157,553
+Polenta,150,549
+Crackers di gamberi,3,16
+Bastoncini di pretzel,12,46
+Quinoa,170,626
+Rusk,10,41
+Crusca di segale,150,422
+Sago,28,99
+Biscotti salati,40,139
+Shortbread,19,95
+Spelta,174,588
+Crusca di spelta,160,283
+Semola di spelta,167,601
+Semi di girasole,140,818
+Tortilla,197,467
+Patatine di mais,32,160
+Crusca di frumento,58,125
+Germe di frumento,113,432
+Glutine di frumento,3,10
+Semola di frumento,167,601
+Amido di frumento,110,386
+Grano intero,120,407
+Fiocchi d'avena integrali,80,300
+Olio di mandorle,14,123
+Olio di nocciolo di albicocca,14,124
+Olio di argan,14,125
+Olio di avocado,14,120
+Olio di babassu,14,124
+Olio di canola,14,124
+Olio di cocco,14,120
+Olio di mais,15,120
+Olio di semi di cotone,14,123
+Olio di semi di lino,14,124
+Olio di semi d'uva,14,124
+Olio di nocciole,14,124
+Olio di lino,14,117
+Olio di menhaden,14,128
+Olio di senape,14,124
+Olio d'avena,14,124
+Olio d'oliva,15,120
+Olio di palmisto,14,123
+Olio di palma,14,123
+Olio di arachidi,14,120
+Olio di papavero,14,124
+Olio di semi di zucca,14,123
+Olio di crusca di riso,14,124
+Olio di cartamo,14,120
+Olio di salmone,14,128
+Olio di sesamo,14,124
+Olio di karit ,14,124
+Olio di soia,14,123
+Olio di girasole,14,124
+Olio di semi di pomodoro,14,124
+Olio vegetale,15,120
+Olio di noci,14,124
+Olio di germe di frumento,14,130
+Zuppa di alfabeto,248,62
+Stufato di fagioli,252,335
+Brodo di manzo,240,7
+Zuppa di manzo e noodles,244,83
+Zuppa di manzo,213,70
+Bouillon,244,39
+Zuppa di broccoli e formaggio,303,264
+Zuppa di broccoli,237,206
+Zuppa di cavolo,245,69
+Zuppa di carote e zenzero,381,95
+Zuppa di carote,381,95
+Brodo di pollo,241,10
+Brodo di pollo,244,39
+Zuppa di gombo di pollo,244,56
+Zuppa di noodles di pollo,248,62
+Brodo di pollo,244,39
+Zuppa di pollo e verdure,248,77
+Zuppa di pollo e riso,243,58
+Zuppa di asparagi cremosa,244,85
+Zuppa di broccoli cremosa,310,140
+Zuppa di sedano cremosa,248,92
+Zuppa di pollo cremosa,244,117
+Zuppa di funghi cremosa,248,97
+Zuppa di cipolle cremosa,244,107
+Zuppa di patate cremosa,244,73
+Zuppa di noodles di pollo cremosa,245,56
+Zuppa di cipolle alla francese,243,56
+Zuppa di funghi dorati,248,161
+Goulash,187,1887
+Ramen istantaneo,85,371
+Zuppa di lenticchie,248,139
+Bisque di aragosta,248,248
+Zuppa di polpette,245,120
+Minestrone,241,82
+Zuppa di funghi,244,85
+Zuppa di noodles,244,83
+Zuppa di cipolle,243,56
+Zuppa di coda di bue,244,68
+Zuppa di piselli,253,190
+Zuppa di patate,240,192
+Zuppa di zucca,245,71
+Ramen,85,371
+Scotch broth,241,80
+Succotash,192,221
+Zuppa thai,245,147
+Zuppa di riso e pomodoro,247,116
+Zuppa di pomodoro,248,74
+Zuppa di verdure e manzo,244,76
+Brodo vegetale,235,12
+Zuppa di verdure,241,67
+Brodo vegetale,235,12
+Zuppa nuziale,245,130
+Baskin-Robbins,71,170
+Ben and Jerry s,92,210
+Gelato alla nocciola,113,280
+Carvel,212,449
+Gelato ai pezzetti di cioccolato,72,155
+Gelato al cioccolato,72,156
+Ciao Bella,220,240
+Gelato al caff ,72,170
+Cold Stone Creamery,142,329
+Gelato alla pasta frolla,65,130
+Crunchie McFlurry,183,318
+Dairy Milk McFlurry,183,340
+Dippin Dots,170,381
+Double Rainbow,72,185
+Coni gelato,141,360
+Gelato alla vaniglia francese,72,145
+Friendly s,66,140
+Healthy Choice,64,80
+Sundae alla salsa di cioccolato calda,179,333
+Sandwich di gelato,112,265
+Sundae al gelato,178,253
+Latte gelato,103,164
+Magnolia,72,166
+Magnum,86,258
+Magnum Mandorla,86,271
+Magnum Doppio Caramello,86,305
+Magnum Doppio Cioccolato,86,327
+Magnum Oro,85,290
+Magnum Bianco,86,255
+McFlurry,134,205
+McFlurry Oreo,183,340
+Mini Milk,25,30
+Gelato al cioccolato fondente e menta,72,172
+Gelato Rocky Road,113,290
+Schwan s,72,177
+Smarties McFlurry,202,400
+Gelato Snickers,50,180
+Gelato soft serve,86,191
+Solero,75,75
+Gelato alla fragola,72,170
+Sundae alla fragola,178,281
+Sundae,72,155
+Turkey Hill,70,190
+Cono alla vaniglia,142,230
+Gelato alla vaniglia,72,145
+Cannelloni,56,82
+Capellini,56,198
+Cappelletti,56,92
+Noodles di cellophane,140,491
+Tortellini al formaggio,113,329
+Dampfnudel,85,233
+Impasto per gnocchi,56,55
+Semola di grano duro,56,222
+Tagliatelle all'uovo,38,146
+Farfalle,56,200
+Fettuccine,56,198
+Fusilli,56,197
+Noodles di vetro,56,108
+Fogli di lasagna,21,57
+Linguine,56,200
+Pasta a basso contenuto di carboidrati,56,158
+Maccheroni,114,422
+Manicotti,56,200
+Mostaccioli,56,103
+Orecchiette,56,207
+Orzo,56,200
+Penne,56,197
+Penne rigate,56,207
+Pierogi,100,200
+Ravioli,56,43
+Rigatoni,56,198
+Rotini,56,198
+Conchiglie,85,300
+Noodles di shirataki,56,10
+Noodles di soia,56,121
+Spaetzle,56,206
+Spaghetti,56,207
+Tortellini agli spinaci,102,320
+Spirelli,56,206
+Tagliatelle,56,207
+Tortellini,113,329
+Vermicelli,56,206
+Pasta integrale,56,194
+Spaghetti integrali,56,197
+Ziti,56,197
+Pizza BBQ Chicken,132,309
+Pizza BBQ,140,314
+Pizza al manzo,235,714
+Pizza Bianca,187,460
+Pizza Buffalo Chicken,238,600
+Pizza Calabrese,108,254
+Calzone,364,841
+Pizza Capricciosa,74,192
+Pizza al formaggio,63,168
+Pizza al pollo,132,309
+Pizza al piatto profondo,118,313
+Dominos Philly Cheese Steak Pizza,159,356
+Pizza ai quattro formaggi,113,250
+Pizza al formaggio di capra,63,138
+Pizza grigliata,124,280
+Pizza hawaiana,134,154
+Pizza Margherita,63,173
+Pizza Mozzarella,62,154
+Pizza ai funghi,288,611
+Pizza Napoli,123,248
+Pizza stile New York,103,174
+Pizza al pepperoni,71,181
+Impasto per pizza,57,130
+Pizza Hut Stuffed Crust Pizza,149,380
+Pizza Hut Supreme Pizza,123,305
+Rotoli di pizza,14,35
+Pizza Quattro Formaggi,133,330
+Pizza al peperone rosso,86,165
+Pizza al salame,71,181
+Pizza alla salsiccia,72,177
+Pizza ai frutti di mare,76,186
+Pizza ai gamberi,91,190
+Pizza siciliana,133,321
+Pizza spinaci e feta,62,150
+Pizza agli spinaci,62,145
+Pizza Stuffed Crust,149,380
+Tarte Flamb e,56,142
+Pizza crosta sottile,60,157
+Pizza al tonno,125,318
+Pizza alle verdure,156,399
+Pizza vegetariana,156,399
+Pizza veggie,114,263
+Pizza bianca,232,571
+Acerola,4.8,1
+Pera asiatica,178,75
+Avocado,200,320
+Banana,125,111
+Frutto del pane,96,99
+Melone cantalupo,69,23
+Melone casaba,125,35
+Cherimoya,235,176
+Frutto del drago,200,120
+Durian,602,885
+Feijoa,42,23
+Melone Galia,130,30
+Pompelmo,123,52
+Guava,55,37
+Melone Honeydew,125,45
+Jackfruit,151,143
+Kiwi,183,112
+Kumquat,19,13
+Litchi,10,7
+Mandarini,90,48
+Mango,336,202
+Mangostano,80,58
+Maracuya,18,17
+Ciliegie maraschino,5,8
+Melone retato,69,23
+Noni,28.4,15
+Frutto della passione,18,17
+Ananas,905,453
+Pompelmo rosa,123,52
+Platano,179,218
+Melagrana,282,234
+Pomelo,609,231
+Fico d'India,19,8
+Rambutan,9,7
+Sapodilla,170,141
+Frutto della guan bana,625,413
+Frutto della stella,91,28
+Tamarindo,2,5
+Anguria,286,86
+Arby s Grand Turkey Club,233,489
+Arby s Reuben,308,641
+Arby s Roast Beef Classic,154,360
+Arby s Roast Beef Max,154,360
+Costina BBQ,67,142
+Burrito di fagioli,190,380
+Big N  Tasty,232,517
+Bratwurst,85,283
+Burger King Angry Whopper,290,740
+Burger King Double Whopper,374,894
+Burger King Double Whopper with Cheese,399,994
+Burger King Original Chicken Sandwich,219,659
+Burger King Premium Alaskan Fish Sandwich,228,591
+Burger King Triple Whopper,547,1471
+Burger King Whopper,291,672
+Burger King Whopper Jr.,148,346
+Burger King Whopper with Cheese,315,759
+Cheeseburger,156,410
+Petto di pollo,71,116
+Fajita di pollo,222,326
+Chicken McNuggets,16,48
+Nuggets di pollo,20,59
+Chicken Pizziola,320,451
+Sandwich di pollo,170,410
+Sandwich di pollo teriyaki,266,367
+Ali di pollo,29,94
+Chop suey,340,585
+Patatine ricce,128,398
+Double cheeseburger,155,414
+Egg roll,80,200
+Falafel,17,57
+Filet-o-Fish,142,400
+Fish and chips,300,585
+Sandwich di pesce,158,431
+Patatine fritte,71,222
+Insalata di pollo grigliato,305,268
+Sandwich al prosciutto,146,352
+Hamburger,110,279
+Hot dog,116,312
+Italian BMT,224,410
+Lasagna,130,172
+McDonald s Big Mac,219,561
+McDonald s Cheeseburger,114,300
+McDonald s Chicken Nuggets,16,48
+McDonald s Double Cheeseburger,155,437
+McDonald s Filet-o-Fish,142,391
+McDonald s McChicken,143,359
+McDonald s McDouble,160,403
+McDonald s McMuffi Egg,129,290
+McDonald s McRib,170,451
+McRib,170,451
+Sandwich al polpettone,299,481
+Nachos con formaggio,188,575
+Anelli di cipolla,6.5,25
+Poutine,225,511
+Salmone affumicato,28.35,44
+Spicy Italian,219,480
+Subway Club Sandwich,238,312
+Wrap di tortilla,63,171
+Tonno,28.35,24
+Tacchino,28.35,29
+Hamburger vegetariano,215,389
+Veggie Delight,166,229
+Patty vegetale,247,963
+Wendy s Baconator,276,839
+Wendy s Jr. Bacon Cheeseburger,161,420
+Wendy s Jr. Cheeseburger,129,290
+Wendy s Son of Baconator,218,700
+Whopper,291,672
+Zinger,202,517
+Zinger Burger,202,517
+Zinger Burger,1 sandwich (202 g),517 cal

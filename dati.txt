@@ -1,0 +1,5 @@
+Altezza:175.0
+Età:34
+Sesso:maschio
+Peso:68.7
+Fabbisogno:1675.9
